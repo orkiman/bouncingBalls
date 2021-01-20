@@ -12,7 +12,7 @@ public class CP extends JPanel {
     Ball[] balls;
     double[] sin = new double[360];
     double[] cos = new double[360];
-    final int NUMBER_OF_BALLS = 30;
+    final int NUMBER_OF_BALLS = 20;
     private JPanel tt;
 
     public CP() {
